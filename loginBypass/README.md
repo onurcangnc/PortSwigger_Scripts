@@ -1,5 +1,7 @@
 # SQL Injection Login Bypass Script
 
+![Resim Açıklaması](./lab.PNG)
+
 This script demonstrates an SQL injection attack on a vulnerable web application in PortSwigger. It uses Python's `requests` library to handle HTTP requests and `BeautifulSoup` for HTML parsing.
 
 ## Features
@@ -34,6 +36,7 @@ python sql_injection_script.py
 ```
 
 2. Enter your lab login URL:
+![url image](./port.PNG)
 ```bash
 Enter your lab login URL: https://0af4008404596280802ae92400d700c9.web-security-academy.net/login
 ```
