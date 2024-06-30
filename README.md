@@ -11,9 +11,10 @@ To run the scripts in this repository, you will need:
 ## Usage
 
 1. Clone the repository:
+```bash
 git clone https://github.com/onurcangnc/PortSwigger_Scripts.git
 cd PortSwigger_Scripts
-
+```
 
 2. Navigate to the desired script directory:
 
